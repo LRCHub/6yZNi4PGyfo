@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "めんたいコズミック",
+  "base_artist": "Yunomi",
+  "createdAt": "2026-02-11T14:47:30.524940Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "めんたいコズミック",
+      "artist": "Yunomi feat. nicamoq",
+      "has_synced": true,
+      "path": "select/01_めんたいコズミック_Yunomi_feat._nicamoq.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "めんたいコズミック",
+      "artist": "Yunomi",
+      "has_synced": true,
+      "path": "select/02_めんたいコズミック_Yunomi.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "めんたいコズミック (feat. nicamoq)",
+      "artist": "Yunomi",
+      "has_synced": true,
+      "path": "select/03_めんたいコズミック_(feat._nicamoq)_Yunomi.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "めんたいコズミック",
+      "artist": "Yunomi; nicamoq",
+      "has_synced": true,
+      "path": "select/04_めんたいコズミック_Yunomi;_nicamoq.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "めんたいコズミック",
+      "artist": "Yunomi",
+      "has_synced": false,
+      "path": "select/pl_01_めんたいコズミック_Yunomi.txt"
+    }
+  ]
+}
